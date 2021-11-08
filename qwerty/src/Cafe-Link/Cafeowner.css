@@ -1,0 +1,141 @@
+.Cafe1{
+    margin-right: 33%;
+    float: right;
+    margin-top: 30px;
+    color: rgb(219, 66, 20);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    font-weight: 600;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    justify-content: center;
+    padding-top: 13px;
+    
+    }
+  
+  .Cafe2{
+    float:right;
+    margin-top: 20px;
+    padding-right: 20px;
+    
+}
+  
+  .Cafe3 {
+    float:  right;
+    color: #3594ac;
+    margin-right: 3%;
+    margin-top: 35px;
+  }
+  
+  .Cafe4 {
+    float: right;
+    margin-right: 25px;
+    margin-top: 20px;
+    border-radius: 60px;
+    
+  }
+  
+  .Cafe5{
+    margin-top: 7%;
+    margin-left: 21%;
+  }
+  
+  .Cafe6{
+    margin-left: 39.8%;
+  }
+  .Menu {
+    float: left;
+    margin-left: 23%;
+    text-align: center;
+  }
+  .Event{
+    margin-left: 45.5%;
+    
+  }
+  .Menu1 {
+    margin-left: 23%;
+    text-align: center;
+  }
+  
+  .Event1{
+    margin-left:23.5%;
+    text-align: center;
+  }
+  
+  /* .Event2{
+    float: right;
+    margin-right: 26.5%;
+    
+  }
+  
+  .Menu2{
+    float: right;
+    margin-right: 25.5%;
+  } */
+  
+  .Event4{
+    margin-left: 22.9%;
+  }
+  
+  .Menu4{
+    margin-left: 45.5%;
+    font-size: medium;
+  }
+  
+  
+  .Event3{
+    margin-left: 44.9%;
+    font-size: medium;
+  }
+  .Menu3{
+    margin-left: 23%;
+  }
+  
+  button{
+    float: right;
+    margin-right: 25%;
+    background-color: transparent;
+    text-decoration: underline;
+    color: rgb(97, 9, 97);
+    border: 0;
+    font-size: medium;
+  
+  }
+.header {
+  background-color: aquamarine;
+  border-radius: 25px;
+  
+}
+
+.Cafe5:hover{
+  transform:translate(-8px);
+  transition:all ease 0.6sec;
+  
+  
+}
+
+.Cafe6:hover{
+  transform:translate(-8px);
+  transition:all ease 0.6sec;
+}
+
+.U1{
+  margin-right: 24%;
+}
+.U2{
+  margin-right: 71%;
+}
+.U3{
+ 
+ margin-left: 50%;
+float:left;
+
+}
+.U4{
+  /* float: left; */
+  margin-left: 61%;
+  margin-right: 350px;
+  
+}
+

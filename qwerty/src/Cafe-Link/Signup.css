@@ -1,0 +1,114 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.hw {
+  text-align: center;
+  padding-bottom: 20px;
+}
+.full {
+  /* background-image: url('ss.jpg'); */
+  background-size: cover;
+  /*height: 100vh;
+*/
+}
+body {
+  /* background-image: url("ss.jpg"); */
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.hh {
+  background-color: #de810df2;
+  padding: 6px 11px 6px 12px;
+  font-size: 15px;
+  font-family: serif;
+  display: inline-block;
+  border-radius: 5px;
+}
+.d1 {
+  text-align: center;
+  color: white;
+  font-family: verdana;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 25px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.d2 {
+  text-align: center;
+  padding-bottom: 25px;
+}
+.d3 {
+  text-align: center;
+  padding-bottom: 25px;
+  
+}
+.d4 {
+  text-align: center;
+  padding-bottom: 35px;
+  font-size: 14px;
+}
+.d0 {
+  text-align: center;
+  padding-bottom: 25px;
+}
+.d5 {
+  text-align: center;
+  padding-bottom: 20px;
+}
+.d6 {
+  text-align: center;
+  padding-bottom: 25px;
+  font-size: 14px;
+}
+.d7 {
+  text-align: center;
+  padding-bottom: 10px;
+  font-size: 22px;
+  font-weight: bold;
+}
+.ff {
+  text-align: center;
+  padding-bottom: 25px;
+}
+.fg {
+  padding-bottom: 25px;
+}
+.fg select {
+  height: 30px;
+  padding: 5px 5px;
+  line-height: 20px;
+  font-size: 15px;
+  border-radius: 5px;
+  border-color: bisque;
+}
+.user_name2 {
+  height: 25px;
+  width: 200px;
+  border-top-width: 5px;
+  border-bottom-width: 5px;
+  border-left-width: 5px;
+  border-right-width: 5px;
+  border-radius: 10px;
+  font-size: 14px;
+  
+}
+input[type="password"] {
+  height: 25px;
+  width: 200px;
+  border-top-width: 5px;
+  border-bottom-width: 5px;
+  border-left-width: 5px;
+  border-right-width: 5px;
+  border-radius: 10px;
+  font-size: 14px;
+  padding-bottom: 18px;
+  
+}
+input[type="radio"] {
+  height: 25px;
+  width: 80px;
+}
+.radio1{
+  display: inline;
+}

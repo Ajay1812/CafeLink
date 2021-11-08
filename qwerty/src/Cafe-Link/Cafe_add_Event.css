@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(250, 215, 242);
+}
+.box_event{
+    
+    width: 500px;
+    height: 50vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+   
+}
+.event_head{
+    text-align: center;
+
+    text-align: center;
+}
+.event_table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.event_title{
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+}
+.event_id{
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+    
+}
+.event_description{
+    width: 250px;
+    height: 40px;
+    border-radius: 5px;
+}
+.add_event{
+    padding: 6px;
+    width: 100px;
+    color:white;
+    background-color: darkcyan;
+    border-radius: 10px;
+}
+.event_button_setting{
+    padding-left: 85px;
+}

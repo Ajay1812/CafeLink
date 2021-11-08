@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.backco{
+    background-color: rgb(221, 246, 255);
+    height: 100vh;
+}
+.ex{
+    color: brown;
+    text-align: center;
+    font-size: 30px;
+    padding: 120px 0px 30px 0px;
+    font-family: serif;
+}
+.date{
+    margin-left: 590px;
+    margin-top: 10px;
+    margin-right: 45.5%;
+    /* width: 300px; */
+    float: right;
+        /* width: 300px; */
+}
+.time
+{
+    margin-left: 590px;
+    margin-top: 20px;
+    float: right;
+    margin-right: 51%;
+}
+
+.cat{
+    float: right;
+    margin-left: 585px;
+    margin-top: 30px;
+    /* width: 300px; */
+    text-align: center;
+    margin-right: 685px;
+}
+.butto{
+    
+    margin-left: 630px;
+    margin-top: 125px;
+    width: 355px;
+    padding-bottom: 38px;
+    padding: 123px;
+}    

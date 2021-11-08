@@ -1,0 +1,19 @@
+.v1{
+    text-align: center;
+    background-color: rgb(221, 246, 255);
+    height: 100vh;
+    
+}
+.n2{
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+}
+
+.H1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50;
+    color: #cf2d66;;;
+    padding-top: 150px;
+}

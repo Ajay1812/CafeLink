@@ -1,0 +1,55 @@
+
+h2{
+    text-align: center;
+    font-size: xx-large;
+    padding: 45px;
+    
+    
+}
+
+.id{
+    margin-left: 41.5%;
+    width: 15%;
+    padding-top: 10px;
+    padding:15px;
+    border-radius: 1px;
+    background-color: white;
+}
+
+.button1 {
+    /* background-color:#008CBA; */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-left:45% ;
+    width: 10%;
+
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif ;
+    background-color: rgb(221, 246, 255);
+}
+
+.m1{
+    font-size: 250%;
+    font-family: 'Times New Roman', Times, serif;
+    color: #cc3067;
+    padding-top: 0;
+}
+.width{
+    width: 25%;
+}
+.photo {
+    text-align: center;
+    margin-left: 42%;
+}
+.Name1 {
+    margin-left: 42%;
+}

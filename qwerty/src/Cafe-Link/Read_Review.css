@@ -1,0 +1,70 @@
+#read_review-Box
+{
+position:relative;
+margin: 5% auto;
+height:300px;
+width: 300px;
+background: #b3ebf5;
+box-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+}
+
+box{
+    position: absolute;
+    top:0;
+    left: 0;
+    box-sizing: border-box;
+    padding: 40px;
+    width: 300px;
+    height: 500px;
+    align-items: center;
+}
+
+input[type="text"],
+input[type="review"]
+{
+display: block;
+box-sizing: border-box;
+margin-bottom: 20px;
+padding: 4px;
+border: none;
+outline: none;
+border-bottom:1px solid #f089;
+font-family: sans-serif;
+font-weight: 400;
+font-size: 15px;
+transition: 0.2.s ease;
+
+}
+
+input[type="submit"]
+{
+    margin-bottom: 28px;
+    width: 120px;
+    background: #f666;
+    border: none;
+    border-radius: 2px;
+    color: #344;
+    font-family: sans-serif;
+    font-weight: 500;
+    text-transform: uppercase;
+    transition: 0.2s ease;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover
+input[type="submit"]:focus
+{
+    background: #ff5722;
+    transform: 0.2s ease;
+}
+
+.left-box{
+    position: absolute;
+    top: 0;
+    right: 0;
+    box-sizing: border-box;
+    padding: 40px;
+    width: 300px;
+    height: 400px;
+    background-position: center;
+}

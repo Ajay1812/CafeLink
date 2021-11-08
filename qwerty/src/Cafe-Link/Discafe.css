@@ -1,0 +1,74 @@
+.caferegis{
+    /* width: 300px; */
+    /* height: 300px; */
+    /* margin-top: 130px; */
+    margin-left: auto;
+    margin-right: auto;
+    padding: 80px 0px 0px 200px;
+    border: 2px;
+}
+
+.dis {
+    margin-left: 2%;
+}
+
+.head{
+    text-align: center;
+    padding-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xxx-large;
+}
+.btn {
+    padding-left: 250px;
+    margin-left: 32%;
+
+}
+/* .cafeOwner_offer{
+    height: 50%;
+    width: 80%;
+} */
+
+.col1 {
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+    text-align: center;
+}
+.head1{
+    padding: 10px;
+    color: rgb(224, 123, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+    background-color:rgb(66, 65, 65);
+    text-align: center;
+}
+.head2 {
+    text-align: center;
+    padding: 10px;
+    color: rgb(224, 123, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+    background-color:rgb(66, 65, 65);
+}
+.col2 {
+    text-align: center;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+}
+/* .cen1 {
+    text-align: center;
+    margin-left: 250px
+} */
+
+.bt1{
+    padding: 20px;
+    text-align: center;
+}
+
+.Cafereg_table{
+    align-items: center;
+    margin-left: auto;
+    margin-right:auto ;
+    text-align: center;
+}

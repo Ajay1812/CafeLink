@@ -1,0 +1,61 @@
+
+.Add_Categories{
+        margin-left: 25%;
+        height: 50%;
+        width: 50%;
+}
+
+
+.head3{
+    padding: 10px;
+    color: rgb(224, 123, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+    background-color:rgb(66, 65, 65);
+    text-align: center;
+    width: 15%;
+}
+.head5 {
+    text-align: center;
+    padding: 10px;
+    color: rgb(224, 123, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+    background-color:rgb(66, 65, 65);
+    width: 44%;
+}
+
+
+.dis {
+    margin-left: 25%;
+    width: 60%;
+    
+}
+
+.head{
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xxx-large;
+}
+.btn {
+    padding-left: 38%;
+    margin-left: 8%;
+
+}
+
+.w1{
+    width: 12%;
+    padding: 15px;
+    font-size: 150%;
+    font-family: 'Times New Roman', Times, serif;
+    /* padding-left: 5Px; */
+}
+.w2{
+    width: 22%;
+    padding-left: 11%;
+}
+
+div {
+    background-color:rgb(221, 246, 255);
+  }

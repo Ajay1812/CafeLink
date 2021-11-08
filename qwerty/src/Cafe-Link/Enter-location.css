@@ -1,0 +1,53 @@
+
+/* *{
+    background-color: antiquewhite;
+} */
+.box_location{
+    
+    width: 490px;
+    margin-left: auto;
+    margin-right: auto;
+   
+}
+.area_head{
+    text-align: center;
+    padding-bottom: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #e02b6a;
+}
+.area{
+    background-color: rgb(221, 246, 255);
+    
+    padding-left: 41%;
+    padding-right: 42%; 
+    padding-top: 160px;
+    padding-bottom: 14%;
+}
+.city_id{
+    background-color: white;
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+    padding: 20px;
+}
+.area_id{
+    background-color: white;
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+    padding: 20px;
+    
+}
+.add_area{
+    padding: 5px;
+    width: 100px;
+    color:white;
+    background-color: darkcyan;
+    border-radius: 10px;
+    
+}
+.button_setting1{
+    color: white;
+    padding-left: 75px;
+    padding-top: 40px;
+}

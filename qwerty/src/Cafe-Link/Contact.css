@@ -1,0 +1,50 @@
+.copy {
+    margin-top: 0;
+    font-size: 16px;
+    display: flex;
+    display: block;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+  }
+  
+  .Social {
+    margin-right: 20%;
+    float: right;
+  }
+  .Share {
+    margin-right: 17%;
+    float: right;
+  
+  }
+  
+  .face{
+    padding: 10px;
+  }
+  
+  .insta{
+    padding: 10px;
+  }
+  .pint {
+    padding: 10px;
+  }
+  
+  *{
+    margin: 0;
+    padding: 0;
+  }
+  
+  .label{
+    margin-left: 10px;
+  }
+  
+  .head {
+    margin-left: 10px;
+  }
+  
+  .Contact {
+    background-color: lightblue;
+    height: 100vh;
+  }
+  
+  

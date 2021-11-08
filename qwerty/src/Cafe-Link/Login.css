@@ -1,0 +1,83 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.hw {
+  text-align: center;
+  padding-bottom: 17px;
+}
+.full1 {
+  /* background-image: url('vv6.png'); */
+  color: rgb(240, 209, 170);
+  background-size: 1600px 790px;
+  background-repeat: no-repeat;
+  /* background-position-x: center;
+    background-position-y: center; */
+  /* background-color: #f03838; */
+  height: 100vh;
+}
+.hh {
+  background-color: #de810df2;
+  padding: 6px 11px 6px 12px;
+  font-size: 15px;
+  font-family: serif;
+  display: inline-block;
+  border-radius: 5px;
+}
+.d1 {
+  text-align: center;
+  color: rgb(214, 33, 33);
+  font-family: verdana;
+
+  padding-bottom: 0px;
+  padding-top: 5px;
+}
+.head_login {
+  padding-top: 155px;
+  color: #cf2d66;;
+  font-family: 'Times New Roman', Times, serif;
+}
+.d2 {
+  text-align: center;
+  padding-bottom: 30px;
+}
+.d3 {
+  text-align: center;
+  padding-bottom: 30px;
+  
+}
+.d4 {
+  text-align: center;
+  padding-bottom: 118px;
+  font-size: 20px;
+}
+.d5 {
+  text-align: center;
+  padding-bottom: 30px;
+}
+.user_name1 {
+  height: 25px;
+  width: 200px;
+  border-top-width: 5px;
+  border-bottom-width: 5px;
+  border-left-width: 5px;
+  border-right-width: 5px;
+  border-radius: 10px;
+  font-size: 14px;
+  padding: 10px;
+}
+input[type="password"] {
+  height: 25px;
+  width: 200px;
+  border-top-width: 5px;
+  border-bottom-width: 5px;
+  border-left-width: 5px;
+  border-right-width: 5px;
+  border-radius: 10px;
+  font-size: 14px;
+  padding: 10px;
+  padding-bottom: 18px;
+}
+a {
+  color: blue;
+}

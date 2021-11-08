@@ -1,0 +1,63 @@
+.center {
+    display: block;
+    margin-left: 45%;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  .cate {
+    display: block;
+    margin-left: 46%;
+    margin-right: auto;
+    width: 50%;
+    color: burlywood;
+    padding: 15px;
+    float:  right;
+    margin-right: 48%;
+    padding-bottom: 20px;
+  }
+  
+  .Maths {
+    display: block;
+    margin-left: 46%;
+    margin-right: relative;
+    width: 50%;
+    color: burlywood;
+  }
+  
+  .Button {
+    background-color: #3594ac; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    display: block;
+    margin-left: 39%;
+    margin-right: 38%;
+    width: 25%;
+    block-size: large;
+    
+    
+  }
+  .Button:hover {
+    cursor: pointer;
+    border: 2px solid #000000; 
+  }
+  
+  .unsplash {
+    background-color: rgb(221, 246, 255);
+    
+    height: 100vh;
+    }
+
+h2{
+  padding-top: 0px;
+  color: #cf2d66;;;
+}
+
+.Q1{
+  margin-left: 44%;
+}

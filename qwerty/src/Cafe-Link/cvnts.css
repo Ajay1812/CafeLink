@@ -1,0 +1,50 @@
+.cvnts{
+    background-color: maroon;
+    padding: 20px;
+  }
+  .title_event{
+    font-style: italic;  
+  }
+  
+  .title_event_head{
+    padding-top: 0px;
+  }
+
+  *{
+    margin-top: 0px; 
+  }
+
+  .djnight{
+    margin: 2%;
+    border-color: blue;
+    border-radius: 5%;
+  }
+  .nightpool{
+    
+    border-color: dodgerblue;
+  }
+  .videogames{
+    margin: 4%;
+    
+  
+  }
+  .secretgames{
+    image-orientation: flip;
+  }
+  .b1{
+    
+    border: double;
+    
+    
+  }
+  .b2{
+    border: double;
+  }
+  .b3{
+    border:double;
+  }
+  .b4{
+    border :double;
+  }
+
+  

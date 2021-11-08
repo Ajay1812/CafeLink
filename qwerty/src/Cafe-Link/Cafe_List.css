@@ -1,0 +1,74 @@
+.cafe_components{
+    margin-top: 0;
+    background-color: rgb(15, 14, 14);
+  }
+  
+  .title123{
+    text-align: center;
+    background-color: rgb(110, 64, 64);
+    margin-top: 0;
+    padding: 20px;
+    height: 100px;
+  
+  }
+  .title_head{
+    float: left;
+    padding-top: 10px;
+    margin-top: 0px;
+  }
+  .text450{
+    width: 400px;
+    height: 20px;
+  }
+  .title_head1{
+    padding: 0px;
+    margin-top: 0px;
+    padding-top: 20px;
+    /* border: none; */
+  }
+  .title_head2{
+    float: right;
+    padding: 0px;
+    margin-top: 0px;
+    padding-top: 0px;
+  }
+  .pra{
+    display: inline;
+  }
+  .cafe_table{
+   background-color: brown;
+   margin-left: 40%;
+   margin-right: auto;
+   text-align: center;
+   padding: 20px;
+  }
+  
+  .button_hide{
+    width: 40%;
+    background-color: rgb(124, 50, 50);
+   padding: 5px;
+    font-size: medium;
+  }
+  .button_salt{
+    width: 40%;
+    background-color: rgb(124, 50, 50);
+   padding: 5px;
+    font-size: medium;
+    
+  }.button_light{
+    width: 40%;
+    background-color: rgb(124, 50, 50);
+   padding: 5px;
+    font-size: medium;
+  }.button_hickee{
+    width: 40%;
+    background-color: rgb(124, 50, 50);
+   padding: 5px;
+    font-size: medium;
+  }
+  /* *{
+    margin:0 ;
+    padding: 0;
+    background-image: url('back.jpg');
+  } */
+  

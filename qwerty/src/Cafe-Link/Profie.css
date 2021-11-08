@@ -1,0 +1,71 @@
+
+.my{
+    color:rgb(199, 171, 171);                                          
+}
+.user{
+  font-weight: bold;
+  border: 0px;
+  background-color: transparent;
+  font-size: medium;
+  text-align-last: center;
+  padding-top: 10px;
+  color: aliceblue
+  
+}
+
+.city{
+  border: 0px;
+  background-color: transparent;
+  text-align: center;
+  color: aliceblue
+}
+.info{
+  text-align: center;
+  margin-left: 41%;
+  color: aliceblue;
+
+}
+.user_photo{
+  width: 60%;
+  height: 20%;
+  border-radius: 50%;
+}
+.phone{
+  border:0px;
+  background-color: transparent;
+  text-align: center;
+  color: aliceblue
+}
+.user_menu{
+  text-align: center;
+  float: left;
+  padding: 20px;
+  margin-left: 90px;
+  font-family: 'Times New Roman', Times, serif;
+  margin-top: 50px;
+}
+.box{
+  margin-top: 2px;
+  margin-left: 190px;
+  color: aliceblue
+
+}
+select{
+  height: 25px;
+  width: 400px;
+  padding-left: 130px;
+  background-color: aliceblue;
+  
+} 
+body{
+    /* background-image: url('back1.jpg'); */
+    background-position: center;
+    background-color: rgb(110, 105, 105);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Times New Roman', Times, serif;
+  }
+.dis{
+  color: blue;
+}
+

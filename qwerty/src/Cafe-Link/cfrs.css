@@ -1,0 +1,37 @@
+
+.cfrs{
+  
+    background-color:rgb(212, 212, 248);
+    text-decoration-line: inherit;
+    text-decoration-style: wavy;
+    /* text-shadow: 2px 2px #ff0000; */
+    padding: 10px 15px;
+    padding-bottom: 200px;
+    font-family: Arial,Helvetica, sans-serif;
+    
+  }
+  body{
+    background-color: rgb(212, 212, 248)
+  }
+  .b1{
+    shape-margin: 2%;
+    background-color: white;
+  }
+  .b2{
+    width: 17%;
+    background-color: white;
+  }
+.title_offer_head{
+  padding-top: 20px;
+  
+  padding: 0px;
+  background-color: rgb(212, 212, 248);
+  }
+  .title_offer{
+    background-color: rgb(212, 212, 248);
+  }
+  /* *{
+    background-color: rgb(212, 212, 248);
+
+  }
+   */

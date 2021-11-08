@@ -1,0 +1,52 @@
+.dis {
+    margin-left: 15%;
+}
+
+.head{
+    text-align: center;
+    padding-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xxx-large;
+}
+.btn {
+    padding-left: 250px;
+    margin-left: 18%;
+
+}
+.cafeOwner_offer{
+    height: 50%;
+    width: 80%;
+}
+
+.col1 {
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+    text-align: right;
+}
+.head1{
+    padding: 10px;
+    color: rgb(224, 123, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+    background-color:rgb(66, 65, 65);
+    text-align: right;
+}
+.head2 {
+    text-align: left;
+    padding: 10px;
+    color: rgb(224, 123, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+    background-color:rgb(66, 65, 65);
+}
+.col2 {
+    text-align: left;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150%;
+}
+/* .cen1 {
+    text-align: center;
+    margin-left: 250px
+} */

@@ -1,0 +1,53 @@
+h2{
+    text-align: center;
+    padding-top: 8%;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    padding-bottom: 0px;
+    color: #c43c6c;;
+
+    
+}
+
+.cafe_head{
+    font-size: 40px;
+    padding-top: 15%;
+}
+
+.id1{
+
+    margin-left: 41.5%;
+    width: 15%;
+    padding-top: 10px;
+    padding:15px;
+    border-radius: 1px;
+    background-color: white;
+}
+.id2{
+    width: 15%;
+    height: 10%;
+    padding:15px;
+    border-radius :1px ;
+    padding-bottom: 15%;
+    overflow: scroll;
+    margin-left: 0.5%;
+}
+
+.Button2 {
+    background-color:#008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 10%;
+    margin-left:45% ;
+}
+.body{
+    padding-top: 4%;
+    
+}

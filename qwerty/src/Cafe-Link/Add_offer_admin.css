@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(221, 246, 255);
+    
+}
+.box_offer{
+    
+    width: 500px;
+    height: 50vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+}
+
+.offer_head{
+    margin-bottom: 15px;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #e02b6a;
+}
+.offer_table{
+    margin-left: auto;
+    margin-right: auto;
+}
+.offer_id{
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+}
+.cafe_id{
+    width: 250px;
+    height: 30px;
+    border-radius: 5px;
+    
+}
+.offer_description{
+    width: 250px;
+    height: 40px;
+    border-radius: 5px;
+}
+.add_offer{
+    padding: 5px;
+    width: 100px;
+    color:white;
+    background-color: darkcyan;
+    border-radius: 10px;
+}
+.button_setting{
+    padding-left: 85px;
+}
+.custom{
+    color: coral;
+}

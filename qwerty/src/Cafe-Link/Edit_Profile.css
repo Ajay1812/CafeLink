@@ -1,0 +1,56 @@
+.head{
+    text-align: center;
+    color: aliceblue;
+}
+.user_details{
+    margin-left: auto;
+   margin-right: auto;
+   text-align: center;
+   padding: 20px;
+   width: 20%;
+   height: 300px;
+   background-color: transparent;
+   
+}
+.full_name{
+    text-align: center;
+    width: 220px;
+    height :30px
+}
+.phone_no{
+    text-align: center;
+    width: 220px;
+    height :30px
+}
+.email{
+    text-align: center;
+    width: 220px;
+    height :30px
+}
+.city{
+    text-align: center;
+    width: 220px;
+    height :30px
+    
+}
+.old_password{
+    text-align: center;
+    width: 220px;
+    height :30px
+}
+.new_password{
+    text-align: center;
+    width: 220px;
+    height :30px
+}
+body{
+    margin-top: 0;
+    padding-top: 160px;
+    background-color: rgb(27, 26, 26);
+}
+.profile_update{
+    width: 100px;
+    height: 35px;
+    background-color: cadetblue;
+    color: aliceblue;
+}
